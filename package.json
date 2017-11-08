@@ -1,0 +1,7 @@
+{
+  "name": "@zeit/eslint-config-node",
+  "version": "0.1.0",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
