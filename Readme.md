@@ -14,7 +14,7 @@ yarn add --dev eslint @zeit/eslint-config-node
 
 Then populate `package.json` with:
 
-```json
+```js
 {
   "eslintConfig": {
     "extends": [
