@@ -8,17 +8,19 @@ as free of opinions as possible.
 
 ## How to use
 
-```
+```console
 yarn add --dev eslint @zeit/eslint-config-node
 ```
 
 Then populate `package.json` with:
 
-```
-"eslintConfig": {
-  "extends": [
-    "@zeit/eslint-config-node"
-  ]
+```json
+{
+  "eslintConfig": {
+    "extends": [
+      "@zeit/eslint-config-node"
+    ]
+  }
 }
 ```
 
