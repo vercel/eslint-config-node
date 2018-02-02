@@ -1,8 +1,17 @@
 {
-  "name": "@zeit/eslint-config-node",
-  "version": "0.1.0",
-  "files": ["index.js"],
-  "peerDependencies": {
-    "eslint": ">= 3"
-  }
+	"name": "@zeit/eslint-config-node",
+	"version": "0.1.0",
+	"eslintConfig": {
+		"extends": "@zeit/eslint-config-base",
+		"env": {
+			"es6": true,
+			"node": true
+		}
+	},
+	"dependencies": {
+		"@zeit/eslint-config-base": "0.2.0"
+	},
+	"bin": {
+		"zeit-lint-init": "./init.js"
+	}
 }
