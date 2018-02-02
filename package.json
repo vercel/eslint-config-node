@@ -2,7 +2,7 @@
 	"name": "@zeit/eslint-config-node",
 	"version": "0.2.2",
 	"dependencies": {
-		"@zeit/eslint-config-base": "0.2.0"
+		"@zeit/eslint-config-base": "0.2.1"
 	},
 	"bin": {
 		"zeit-lint-init": "./init.js"
