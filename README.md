@@ -8,20 +8,11 @@ as free of opinions as possible.
 
 ## How to use
 
+Just run...
+
 ```console
-yarn add --dev eslint @zeit/eslint-config-node
+$ yarn add --dev eslint @zeit/eslint-config-node @zeit/git-hooks
+$ yarn zeit-lint-init
 ```
 
-Then populate `package.json` with:
-
-```js
-{
-  "eslintConfig": {
-    "extends": [
-      "@zeit/eslint-config-node"
-    ]
-  }
-}
-```
-
-and you're (pre)set!
+... and you're (pre)set!
