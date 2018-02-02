@@ -1,13 +1,6 @@
 {
 	"name": "@zeit/eslint-config-node",
 	"version": "0.2.1",
-	"eslintConfig": {
-		"extends": "@zeit/eslint-config-base",
-		"env": {
-			"es6": true,
-			"node": true
-		}
-	},
 	"dependencies": {
 		"@zeit/eslint-config-base": "0.2.0"
 	},
