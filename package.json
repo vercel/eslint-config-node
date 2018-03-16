@@ -1,6 +1,6 @@
 {
 	"name": "@zeit/eslint-config-node",
-	"version": "0.2.9",
+	"version": "0.2.10",
 	"dependencies": {
 		"@zeit/eslint-config-base": "0.2.10"
 	},
