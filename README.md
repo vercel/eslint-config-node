@@ -1,4 +1,4 @@
-# eslint-config-node
+# @zeit/eslint-config-node
 
 Contains a series of sensible defaults on top of the `eslint:recommended`
 config to prevent common JavaScript gotchas.
