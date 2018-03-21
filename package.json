@@ -1,8 +1,8 @@
 {
 	"name": "@zeit/eslint-config-node",
-	"version": "0.2.12",
+	"version": "0.2.13",
 	"dependencies": {
-		"@zeit/eslint-config-base": "0.2.12"
+		"@zeit/eslint-config-base": "0.2.13"
 	},
 	"bin": {
 		"zeit-lint-init": "./init.js"
