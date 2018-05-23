@@ -1,5 +1,7 @@
 # @zeit/eslint-config-node
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeit/eslint-config-node.svg)](https://greenkeeper.io/)
+
 Contains a series of sensible defaults on top of the `eslint:recommended`
 config to prevent common JavaScript gotchas.
 
