@@ -1,6 +1,7 @@
 {
   "name": "@zeit/eslint-config-node",
   "version": "0.3.0",
+  "license": "MIT",
   "dependencies": {
     "@zeit/eslint-config-base": "0.3.0"
   },
